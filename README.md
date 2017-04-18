@@ -1,5 +1,5 @@
 # contract-guard
-Language(and library) defines the contract sematic which can be used as Mock from client side and testcases for server side. 
+Language(and library) defines the contract sematic (by cases) which can be used as Mock from client side and testcases for server side. 
 ## Motivation
 ## Scope
 
